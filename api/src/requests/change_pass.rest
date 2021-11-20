@@ -1,0 +1,6 @@
+PUT http://localhost:5000/api/users/614a56116853d00534b40944
+Content-Type: application/json
+
+{   
+    "pass": "ducthai1"
+}
