@@ -1,2 +1,2 @@
-Backend: Bach Phung
+Backend: Bach Phun
 Frontend: Duc Thai
