@@ -1,2 +1,2 @@
-Backend: Quang Bach
+Backend: Bach Phung
 Frontend: Duc Thai
